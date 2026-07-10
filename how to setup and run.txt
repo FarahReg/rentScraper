@@ -1,6 +1,0 @@
-pip install -r requirements.txt
-playwright install chromium
-
-to run : 
-
-python -m streamlit run app.py
